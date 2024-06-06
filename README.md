@@ -40,8 +40,5 @@ This project is a simple chatbot built using Natural Language Processing (NLP) t
 
 - **Chatbot**: It depends on your nationality. Many nationalities can enter Morocco without a visa for stays up to 90 days. Please check with the Moroccan consulate for specific requirements.
 
-## License 
-This project is licensed under the MIT License.
-
 ## Contact
 If you have any questions or feedback, feel free to reach out to me at [souhail.mah@gmail.com].
